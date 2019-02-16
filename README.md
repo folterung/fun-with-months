@@ -3,8 +3,9 @@
 Playing around with C.
 
 ## Table of Contents
-[Setup](#setup)
-[Build and Run](#build-and-run)
+
+- [Setup](#setup)
+- [Build and Run](#build-and-run)
 
 ***
 
