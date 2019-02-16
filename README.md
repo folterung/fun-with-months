@@ -4,6 +4,7 @@ Playing around with C.
 
 ## Table of Contents
 [Setup](#setup)
+[Build and Run](#build-and-run)
 
 ***
 
@@ -15,11 +16,16 @@ Follow the below steps to get setup.
 
 ### Clone the repository
 
-Ensure Git is installed and run the following command:
+Ensure Git is installed and run the following commands:
 
 ```Bash
+# Clone the repository
 git clone https://github.com/folterung/fun-with-months.git
+
+# Change the working directory to the cloned project
+cd fun-with-months
 ```
+<a name="build-and-run"></a>
 
 ### Build and run the program
 
